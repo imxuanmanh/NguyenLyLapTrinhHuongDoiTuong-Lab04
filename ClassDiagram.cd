@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_2312686_PhanLeXuanManh_Lab4.Color" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAADAAAAA=</HashCode>
+      <FileName>Color.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2312686_PhanLeXuanManh_Lab4.HinhCN" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAIAAAQAAEFAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>HinhCN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2312686_PhanLeXuanManh_Lab4.HinhHoc" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIQAAAQAQAAEAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>HinhHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2312686_PhanLeXuanManh_Lab4.HinhTG" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAgIAAAIAAQAAEAAAAABAAAAAQAAAAAEAAAAACgAA=</HashCode>
+      <FileName>HinhTG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2312686_PhanLeXuanManh_Lab4.HinhTron" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAQAAEAAAAAAAAAAAAAAAAAAAACAACAAA=</HashCode>
+      <FileName>HinhTron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2312686_PhanLeXuanManh_Lab4.HinhVuong" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAQAAEAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>HinhVuong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2312686_PhanLeXuanManh_Lab4.MenuCT" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAIACAAAAAAA=</HashCode>
+      <FileName>MenuCT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2312686_PhanLeXuanManh_Lab4.Program" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2312686_PhanLeXuanManh_Lab4.QuanLyHinhHoc" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BSoAAAQAABgAECAkGQAYEAQQAJEAAAAACAACQBIAYCA=</HashCode>
+      <FileName>QuanLyHinhHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="_2312686_PhanLeXuanManh_Lab4.LoaiHinh" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAQAAAAAIAAAAAIABAAAAAAA=</HashCode>
+      <FileName>QuanLyHinhHoc.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
